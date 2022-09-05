@@ -1,0 +1,14 @@
+{
+  "name": "venon",
+  "version": "1.0.0",
+  "description": "QA automation Test",
+  "main": "index.js",
+  "scripts": {
+    "cy:all": "cypress run --browser chrome --headless --spec \"cypress/e2e/**/*.cy.js\""
+  },
+  "author": "Jesus Pardo",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.6.0"
+  }
+}
