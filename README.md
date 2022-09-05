@@ -2,6 +2,8 @@
 
 `npm run cy:all`: this command run all test created (filter, get data and add new machines.)
 
+![Tabby_mB9hyXplkd](https://user-images.githubusercontent.com/44824248/188520551-c0a67f6b-1d44-4823-a4ae-43d7112927ae.png)
+
 # Structure
 
 - Fixture: Set all values used in the TCs automated
